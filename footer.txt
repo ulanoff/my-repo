@@ -1,2 +1,3 @@
 some text
+some changes from <main>
 some changes from <first>
